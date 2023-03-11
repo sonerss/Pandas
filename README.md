@@ -5,3 +5,8 @@ deneme
 12
 3
 4
+
+
+bu local den geldi
+
+

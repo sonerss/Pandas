@@ -8,5 +8,7 @@ deneme
 
 
 bu local den geldi
+bu da
+
 
 
